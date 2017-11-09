@@ -1,0 +1,28 @@
+{
+  "name": "mongodb-stitch-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franksoong/mongodb-stitch-sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franksoong/mongodb-stitch-sample/issues"
+  },
+  "homepage": "https://github.com/franksoong/mongodb-stitch-sample#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  },
+  "dependencies": {
+    "mongodb-stitch": "^1.1.8"
+  }
+}
